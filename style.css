@@ -1,6 +1,11 @@
 body{
-    font-family: 'Times New Roman', Times;
-    color:indigo;
+    text-align: center;
+    font-family: 'Times New Roman';
+    background-color: #3c3836;
+    color: beige;   
 
 
+}
+img{
+    width: 200px;   
 }
