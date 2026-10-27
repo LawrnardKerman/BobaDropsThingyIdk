@@ -9,3 +9,6 @@ body{
 img{
     width: 200px;   
 }
+.preserve-spaces {
+  white-space: pre-wrap;
+}
