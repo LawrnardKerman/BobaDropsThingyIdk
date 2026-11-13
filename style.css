@@ -1,13 +1,13 @@
 body{
     text-align: center;
     font-family: 'Times New Roman';
-    background-color: #3c3836;
-    color: beige;   
+    background-color: #282828;
+    color: #ebdbb2;   
 
 
 }
 img{
-    width: 200px;   
+    width: 500px;   
 }
 .preserve-spaces {
   white-space: pre-wrap;
