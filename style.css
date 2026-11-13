@@ -1,5 +1,5 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: 'Times New Roman';
     background-color: #282828;
     color: #ebdbb2;   
@@ -7,8 +7,13 @@ body{
 
 }
 img{
-    width: 500px;   
+    width: 1000px;   
 }
 .preserve-spaces {
   white-space: pre-wrap;
+}
+
+.holyCoolText {
+    color: #689d6a;
+    font-size: 20px;
 }
