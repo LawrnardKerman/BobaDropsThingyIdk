@@ -3,16 +3,13 @@ body{
     font-family: 'Times New Roman';
 
     font-size: 20px;
-    background-color: #282828;
+    background-color: #32302F;
     color: #ebdbb2;   
 
 
 }
 img{
     width: 1000px;   
-}
-.preserve-spaces {
-  white-space: pre-wrap;
 }
 
 .holyCoolText {
